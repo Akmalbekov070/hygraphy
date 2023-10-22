@@ -1,0 +1,38 @@
+{
+  "name": "my",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "client": "^0.0.1",
+    "framer-motion": "^10.16.4",
+    "i18n": "^0.15.1",
+    "i18next": "^23.5.1",
+    "i18next-browser-languagedetector": "^7.1.0",
+    "i18next-http-backend": "^2.2.2",
+    "js-cookie": "^3.0.5",
+    "js-cookies": "^1.0.4",
+    "next": "13.5.4",
+    "next-i18next": "^14.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hydration-provider": "^2.0.0",
+    "react-i18next": "^13.3.0",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
